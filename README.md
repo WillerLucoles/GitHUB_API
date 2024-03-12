@@ -1,7 +1,9 @@
 
-# Consumindo a API do GITHUB
+# Consumindo a API do GITHUB com REACT
 
-Nesse projeto, desenvolvi uma lógica para  consumir a API do GitHub e obter informações de um usuário e seus repositores em forma de listas.
+Nesse projeto, desenvolvi uma aplicação web usando React que se conecta à API do GitHub para buscar informações de usuários e seus repositórios. A eficiência da aplicação é garantida pelo uso de chamadas assíncronas e da função .map para a manipulação eficaz do DOM. O Fetch API foi a escolha ideal para obter os dados de forma rápida e eficiente, proporcionando uma experiência suave ao usuário. Com essa abordagem moderna e a poderosa biblioteca React, a aplicação oferece uma maneira intuitiva e responsiva de explorar os perfis e repositórios do GitHub.
+
+******
 
 # Getting Started with Create React App
 
